@@ -1,0 +1,18 @@
+/* Import the 'Poppins' font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/**
+ * Tailwind CSS base styles.
+ */
+ @import "tailwindcss/base";
+
+ /**
+  * Tailwind CSS component styles.
+  */
+ @import "tailwindcss/components";
+ 
+ /**
+  * Tailwind CSS utility styles.
+  */
+ @import "tailwindcss/utilities";
+
