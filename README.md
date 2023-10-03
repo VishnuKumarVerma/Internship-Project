@@ -1,3 +1,5 @@
+#Recording of both the apps are attached below this Repository..
+
 # Internship-Project
 
 # React Car Seller App and React Real Estate Seller App
@@ -20,7 +22,7 @@ To get started with the React Car Seller App, follow these steps:
 
    ```bash
    git clone https://github.com/VishnuKumarVerma/Internship-Project.git
-   cd react-car-seller-app
+   cd Internship-Project
 
 ## install dependencies:
 
@@ -32,3 +34,10 @@ npm install
 npm start
 
 Open your browser and visit http://localhost:3000 to access the app
+
+Recording of both the files:-
+
+https://github.com/VishnuKumarVerma/Internship-Project/assets/125765877/17cb38a2-3780-450f-824c-9bda3563bf5d
+
+https://github.com/VishnuKumarVerma/Internship-Project/assets/125765877/dc801e5d-8422-42e4-8785-91f57c95981c
+
